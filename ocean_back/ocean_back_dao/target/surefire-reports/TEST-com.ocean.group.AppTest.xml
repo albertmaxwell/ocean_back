@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ocean.group.AppTest" time="0.023" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ocean.group.AppTest" time="0.026" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -7,7 +7,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.class.path" value="E:\GITHUB\Maxwell\ocean_back\ocean_back\ocean_back_dao\target\test-classes;E:\GITHUB\Maxwell\ocean_back\ocean_back\ocean_back_dao\target\classes;E:\ideamaven\repo\m2\junit\junit\4.11\junit-4.11.jar;E:\ideamaven\repo\m2\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="E:\GITHUB\Maxwell\ocean_back\ocean_back\ocean_back_dao\target\test-classes;E:\GITHUB\Maxwell\ocean_back\ocean_back\ocean_back_dao\target\classes;E:\agithubmaven\apache-maven-3.5.4-bin\repo\m2\junit\junit\4.11\junit-4.11.jar;E:\agithubmaven\apache-maven-3.5.4-bin\repo\m2\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -18,8 +18,8 @@
     <property name="user.country" value="CN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="D:\JDK\8\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire4398631318062697124\surefirebooter7077830635344412329.jar C:\Users\Administrator\AppData\Local\Temp\surefire4398631318062697124 2019-03-28T14-54-06_781-jvmRun1 surefire3516155823097507886tmp surefire_09159666308269411743tmp"/>
-    <property name="surefire.test.class.path" value="E:\GITHUB\Maxwell\ocean_back\ocean_back\ocean_back_dao\target\test-classes;E:\GITHUB\Maxwell\ocean_back\ocean_back\ocean_back_dao\target\classes;E:\ideamaven\repo\m2\junit\junit\4.11\junit-4.11.jar;E:\ideamaven\repo\m2\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.java.command" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire4266707588887782435\surefirebooter1068689249058218449.jar C:\Users\Administrator\AppData\Local\Temp\surefire4266707588887782435 2019-04-01T09-35-14_541-jvmRun1 surefire685885679950161372tmp surefire_04053394478333629566tmp"/>
+    <property name="surefire.test.class.path" value="E:\GITHUB\Maxwell\ocean_back\ocean_back\ocean_back_dao\target\test-classes;E:\GITHUB\Maxwell\ocean_back\ocean_back\ocean_back_dao\target\classes;E:\agithubmaven\apache-maven-3.5.4-bin\repo\m2\junit\junit\4.11\junit-4.11.jar;E:\agithubmaven\apache-maven-3.5.4-bin\repo\m2\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Administrator"/>
     <property name="user.language" value="zh"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire4398631318062697124\surefirebooter7077830635344412329.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire4266707588887782435\surefirebooter1068689249058218449.jar"/>
     <property name="sun.boot.class.path" value="D:\JDK\8\jre\lib\resources.jar;D:\JDK\8\jre\lib\rt.jar;D:\JDK\8\jre\lib\sunrsasign.jar;D:\JDK\8\jre\lib\jsse.jar;D:\JDK\8\jre\lib\jce.jar;D:\JDK\8\jre\lib\charsets.jar;D:\JDK\8\jre\lib\jfr.jar;D:\JDK\8\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -43,7 +43,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="file.encoding" value="GBK"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="localRepository" value="E:\ideamaven\repo\m2"/>
+    <property name="localRepository" value="E:\agithubmaven\apache-maven-3.5.4-bin\repo\m2"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
     <property name="idea.version" value="2017.3.4"/>
@@ -59,8 +59,8 @@
     <property name="java.vm.version" value="25.162-b12"/>
     <property name="java.ext.dirs" value="D:\JDK\8\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="maven.repo.local" value="E:\ideamaven\repo\m2"/>
+    <property name="maven.repo.local" value="E:\agithubmaven\apache-maven-3.5.4-bin\repo\m2"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.ocean.group.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.ocean.group.AppTest" time="0.001"/>
 </testsuite>
